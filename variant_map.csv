@@ -1,69 +1,300 @@
-﻿source_form,corpus_entry,kwf_status,frequency,morphological_pattern
-binack,ni-back,Non-Standard,1,Infixation
-binackstab,ni-backstab,Non-Standard,1,Infixation
-binlocked,ni-block,Non-Standard,1,Infixation
-binrowse,ni-browse,Non-Standard,1,Infixation
-binuild,ni-build,Non-Standard,1,Infixation
-binypass,ni-bypass,Non-Standard,1,Infixation
-chinacharge,chine-charge,Non-Standard,1,Infixation + Reduplication
-chinat,ni-chat,Non-Standard,1,Infixation
-chineck,ni-check,Non-Standard,2,Infixation
-dinedefine,dine-define,Non-Standard,1,Infixation + Reduplication
-dineliver,ni-deliver,Non-Standard,1,Infixation
-dinesign,ni-design,Non-Standard,1,Infixation
-dinevelop,ni-develop,Non-Standard,1,Infixation
-dinisassemble,ni-disassemble,Non-Standard,1,Infixation
-dinownload,ni-download,Non-Standard,1,Infixation
-drawingan,drawing-an,Non-Standard,1,Suffixation
-finormat,ni-format,Non-Standard,1,Infixation
-i-c-calibrate,ico-calibrate,Variant,1,Prefixation + Reduplication
-i-e-evaluate,ie-evaluate,Variant,1,Prefixation + Reduplication
-i-i-implement,ii-implement,Variant,1,Prefixation + Reduplication
-i-norder,in-order,Non-Standard,1,Unhyphenated Prefixation
-i-o-organize,io-organize,Variant,1,Prefixation + Reduplication
-i-s-share,ise-share,Variant,1,Prefixation + Reduplication
-i-sesend,ise-send,Standard,1,Prefixation + Reduplication
-iask,i-ask,Non-Standard,1,Unhyphenated Prefixation
-ibbingewatch,ibi-binge watch,Non-Standard,1,Prefixation + Reduplication
-icharge,i-charge,Non-Standard,1,Unhyphenated Prefixation
-ichecheck,iche-check,Non-Standard,1,Prefixation + Reduplication
-icoconfigure,ico-configure,Non-Standard,1,Prefixation + Reduplication
-idedebug,ide-debug,Non-Standard,1,Prefixation + Reduplication
-igrab,i-grab,Non-Standard,1,Unhyphenated Prefixation
-ihandle,i-handle,Non-Standard,1,Unhyphenated Prefixation
-inadd,in-add,Non-Standard,1,Unhyphenated Prefixation
-inapplyan,in-apply-an,Non-Standard,1,Circumfixation
-inattendan,in-attend-an,Non-Standard,1,Circumfixation
-inconfigure,in-configure,Non-Standard,1,Unhyphenated Prefixation
-inedit,in-edit,Non-Standard,1,Unhyphenated Prefixation
-inencode,in-encode,Non-Standard,1,Unhyphenated Prefixation
-inexport,in-export,Non-Standard,1,Unhyphenated Prefixation
-inintegrate,ini-integrate,Non-Standard,2,Unhyphenated Prefixation
-iniscreenshot,ini-screenshot,Non-Standard,1,Unhyphenated Prefixation
-inisolate,ini-isolate,Non-Standard,1,Unhyphenated Prefixation
-inscroll,in-scroll,Non-Standard,1,Unhyphenated Prefixation
-inuninstall,in-uninstall,Non-Standard,1,Unhyphenated Prefixation
-inupdate,ini-update,Non-Standard,2,Unhyphenated Prefixation
-iopen,i-open,Non-Standard,1,Unhyphenated Prefixation
-ipacheck,ipa-check,Non-Standard,1,Unhyphenated Prefixation
-ipapacheck,ipapa-check,Non-Standard,1,Unhyphenated Prefixation
-iplug,i-plug,Non-Standard,1,Unhyphenated Prefixation
-ipost,i-post,Non-Standard,1,Unhyphenated Prefixation
-iprint,i-print,Non-Standard,1,Unhyphenated Prefixation
-ipush,i-push,Non-Standard,1,Unhyphenated Prefixation
-irereport,ire-report,Non-Standard,1,Prefixation + Reduplication
-iscan,i-scan,Non-Standard,1,Unhyphenated Prefixation
-ishare,i-share,Non-Standard,1,Unhyphenated Prefixation
-issubmit,i-submit,Non-Standard,1,Unhyphenated Prefixation
-itry,i-try,Non-Standard,2,Unhyphenated Prefixation
-ivivisit,ivi-visit,Non-Standard,1,Prefixation + Reduplication
-kagroup,ka-group,Non-Standard,1,Unhyphenated Prefixation
-kinancel,ni-cancel,Non-Standard,2,Infixation
-kinonfiscate,ni-confiscate,Non-Standard,1,Infixation
-kumocorrespond,nagko-correspond,Non-Standard,1,Infixation + Reduplication
-malalate,male-late,Non-Standard,2,Prefixation + Reduplication
-nagreply,nag-reply,Non-Standard,2,Unhyphenated Prefixation
-pasend,pa-send,Non-Standard,3,Unhyphenated Prefixation
-pinost,ni-post,Non-Standard,2,Infixation
-sinend,ni-send,Non-Standard,2,Infixation
-tinry,ni-try,Non-Standard,3,Infixation
+﻿source_form,corpus_entry,kwf_status,frequency,kwf_basis
+binack,ni-back up,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention). Multiword root from the source sentence.
+binackstab,ni-backstab,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+binlocked,ni-block,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+binrowse,ni-browse,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+binuild,ni-build,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+binypass,ni-bypass,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+chinacharge,china-charge,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; infixed syllable + hyphen (convention).
+chinat,ni-chat,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+chineck,ni-check,Non-Standard / Informal,2,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+dinedefine,dine-define,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; infixed syllable + hyphen (convention).
+dineliver,ni-deliver,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+dinesign,ni-design,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+dinevelop,ni-develop,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+dinisassemble,ni-disassemble,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+dinownload,ni-download,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+drawingan,drawing-an,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for a suffix on an English root; hyphen before the suffix (convention).
+finormat,ni-format,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+i ss,i-SS,Needs Standardization,1,"KWF 11.3/12.40: affix + proper noun → hyphen, capital kept. Fix: space → hyphen."
+i-c-calibrate,ika-calibrate,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+i-e-evaluate,ie-evaluate,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+i-i-implement,ii-implement,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+i-norder,in-order,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen.
+i-o-organize,io-organize,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+i-s-share,ise-share,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+i-sesend,ise-send,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+iask,i-ask,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+ibbingewatch,ibi-binge-watch,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+icharge,i-charge,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+ichecheck,iche-check,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+icoconfigure,ico-configure,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+idedebug,ide-debug,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+igrab,i-grab,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+ihandle,i-handle,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+inadd,in-add,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+inapplyan,in-apply-an,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for a suffix on an English root; hyphen before the suffix (convention).
+inattendan,in-attend-an,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for a suffix on an English root; hyphen before the suffix (convention).
+inconfigure,in-configure,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+inedit,in-edit,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+inencode,in-encode,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+inexport,in-export,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+inintegrate,in-integrate,Needs Standardization,2,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+iniscreenshot,ini-screenshot,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+inisolate,in-isolate,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+inscroll,in-scroll,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+inuninstall,in-uninstall,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+inupdate,in-update,Needs Standardization,2,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+iopen,i-open,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+ipacheck,ipa-check,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+ipapacheck,ipapa-check,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+iplug,i-plug,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+ipost,i-post,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+iprint,i-print,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+ipush,i-push,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+irereport,ire-report,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+iscan,i-scan,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+ishare,i-share,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+issubmit,isu-submit,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+itry,i-try,Needs Standardization,2,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+ivivisit,ivi-visit,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+ka work,ka-work,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+kagroup,ka-group,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+kateam,ka-team,Needs Standardization,2,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+kinancel,ni-cancel,Non-Standard / Informal,2,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+kinonfiscate,ni-confiscate,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+kumocorrespond,kumo-correspond,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; infixed syllable + hyphen (convention).
+ma e-excuse,mae-excuse,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen. Fix: reduplicated syllable joined to the affix.
+ma-improved,ma-improve,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (improved → improve); the affix marks aspect.
+ma-lowbatt,ma-lowbat,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: spelling lowbatt → lowbat.
+ma-notarized,ma-notarize,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (notarized → notarize); the affix marks aspect.
+ma-sunburned,ma-sunburn,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (sunburned → sunburn); the affix marks aspect.
+maaccess,ma-access,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+macommunicate,ma-communicate,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+madelete,ma-delete,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+mag beg,mag-beg,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+mag carpool,mag-carpool,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+mag conclude,mag-conclude,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+mag decide,mag-decide,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+mag evaluate,mag-evaluate,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+mag hypothesis,mag-hypothesis,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+mag picture,mag-picture,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+mag re-revise,magre-revise,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen. Fix: reduplicated syllable joined to the affix.
+mag sorry,mag-sorry,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+mag stop,mag-stop,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+mag uupload,mag-u-upload,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen. Fix: reduplicated syllable joined to the affix.
+mag-aask,mag-a-ask,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+mag-cle-clean,magcle-clean,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+mag-cocommute,magco-commute,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+mag-eenjoy,mag-e-enjoy,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+mag-eexam,mag-e-exam,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+mag-gro-grocery,maggro-grocery,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+mag-lalaptop,magla-laptop,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+mag-rreview,magre-review,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+mag-seselpon,magseselpon,Needs Standardization,1,"KWF 11.3: respelled loanword is written solid (pakyut, ipakrimeyt)."
+mag-ssend,magse-send,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+maga upload,mag-u-upload,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen. Fix: reduplicated syllable joined to the affix.
+magbibinge,magbi-binge-watch,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen. Multiword root from the source sentence.
+magchange,mag-change,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magcheckout,mag-checkout,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magcocolor,magco-color,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magfocus,mag-focus,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magg-generate,magge-generate,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+maggy-gym,maggi-gym,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+maglogin,mag-login,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magnotes,mag-notes,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magpapameet,magpapa-meet,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magppower,magpa-power nap,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen. Multiword root from the source sentence.
+magprepare,mag-prepare,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magprint,mag-print,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magreready,magre-ready,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magrerespond,magre-respond,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magreset,mag-reset,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magrespond,mag-respond,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magreview,mag-review,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magrorobman,magro-RobMan,Needs Standardization,1,"KWF 11.3/12.40: affix + proper noun → hyphen, capital kept. Fix: solid → hyphen."
+magsave,mag-save,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magsearch,mag-search,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magseset,magse-set up,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen. Multiword root from the source sentence.
+magslip,mag-slip,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+magwwork,magwo-work,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+maja-jollibee,magja-Jollibee,Needs Standardization,1,"KWF 11.3/12.40: affix + proper noun → hyphen, capital kept. Fix: reduplicated syllable joined to the affix."
+makakajoin,makaka-join,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Colloquial nakaka-/makaka-; KWF reduplicates the root instead.
+makapagplan,makapag-plan,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+makapagready,makapag-ready,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+malalate,mala-late,Needs Standardization,2,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+mamodify,ma-modify,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+mapost,ma-post,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+minodify,ni-modify,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+na bump,na-bump,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+na low-battery,na-low-battery,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+na paste,na-paste,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+na-approved,na-approve,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (approved → approve); the affix marks aspect.
+na-bashed,na-bash,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (bashed → bash); the affix marks aspect.
+na-cancelled,na-cancel,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (cancelled → cancel); the affix marks aspect.
+na-declined,na-decline,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (declined → decline); the affix marks aspect.
+na-diagnosed,na-diagnose,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (diagnosed → diagnose); the affix marks aspect.
+na-dirtyhan,na-dirty-han,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for a suffix on an English root; hyphen before the suffix (convention).
+na-discharged,na-discharge,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (discharged → discharge); the affix marks aspect.
+na-dissapoint,na-disappoint,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: spelling dissapoint → disappoint.
+na-drained,na-drain,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (drained → drain); the affix marks aspect.
+na-dumped,na-dump,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (dumped → dump); the affix marks aspect.
+na-e-enjoy,nae-enjoy,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+na-eexperience,nae-experience,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+na-eksayt,naeksayt,Needs Standardization,1,"KWF 11.3: respelled loanword is written solid (pakyut, ipakrimeyt)."
+na-flooded,na-flood,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (flooded → flood); the affix marks aspect.
+na-friendzoned,na-friendzone,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (friendzoned → friendzone); the affix marks aspect.
+na-hooked,na-hook,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (hooked → hook); the affix marks aspect.
+na-impressed,na-impress,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (impressed → impress); the affix marks aspect.
+na-inspired,na-inspire,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (inspired → inspire); the affix marks aspect.
+na-isend,nai-send,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen.
+na-moved,na-move,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (moved → move); the affix marks aspect.
+na-offended,na-offend,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (offended → offend); the affix marks aspect.
+na-rescued,na-rescue,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (rescued → rescue); the affix marks aspect.
+na-scared,na-scare,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (scared → scare); the affix marks aspect.
+na-shaved,na-shave,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (shaved → shave); the affix marks aspect.
+na-shipped,na-ship,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (shipped → ship); the affix marks aspect.
+na-shocked,na-shock,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (shocked → shock); the affix marks aspect.
+na-squished,na-squish,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (squished → squish); the affix marks aspect.
+na-tasked,na-task,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (tasked → task); the affix marks aspect.
+na-taxed,na-tax,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (taxed → tax); the affix marks aspect.
+na-touched,na-touch,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (touched → touch); the affix marks aspect.
+na-triggered,na-trigger,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (triggered → trigger); the affix marks aspect.
+na-vivisualize,navi-visualize,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nababadtrip,naba-bad trip,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen. Multiword root from the source sentence.
+nabuilt,na-build,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen. Fix: -ed dropped (built → build); the affix marks aspect.
+nachecheckan,nache-check-an,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for a suffix on an English root; hyphen before the suffix (convention).
+nacheckout,na-checkout,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nadisconnect,na-disconnect,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nag camping,nag-camping,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+nag church,nag-church,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+nag eat,nag-eat,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+nag enroll,nag-enroll,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+nag movie,nag-movie,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+nag pa trim,nagpa-trim,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+nag swiming,nag-swimming,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen. Fix: spelling swiming → swimming.
+nag trending,nag-trending,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+nag va-valorant,nagva-Valorant,Needs Standardization,1,"KWF 11.3/12.40: affix + proper noun → hyphen, capital kept. Fix: space → hyphen. Fix: reduplicated syllable joined to the affix."
+nag-adopted,nag-adopt,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (adopted → adopt); the affix marks aspect.
+nag-ba-browse,nagba-browse,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-barbique,nag-barbecue,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: spelling barbique → barbecue.
+nag-ccheck,nagche-check,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-ccomment,nagko-comment,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-cecellphone,nagse-cellphone,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-confessed,nag-confess,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (confessed → confess); the affix marks aspect.
+nag-eedit,nag-e-edit,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-eerror,nag-e-error,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-eexact,nag-e-exact,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-eexam,nag-e-exam,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-gli-glitch,naggli-glitch,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-hahalucinate,nagha-hallucinate,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix. Fix: spelling halucinate → hallucinate.
+nag-handwriten,nag-handwrite,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: spelling handwriten → handwritten.
+nag-iimagine,nag-i-imagine,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-lalag,nagla-lag,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-lo-loading,naglo-loading,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-oopen,nag-o-open,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-ooverload,nag-o-overload,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-organized,nag-organize,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (organized → organize); the affix marks aspect.
+nag-pprepare,nagpe-prepare,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-rereview,nagre-review,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-snorkling,nag-snorkeling,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: spelling snorkling → snorkeling.
+nag-sscroll,nagso-scroll,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-sshare,nagsha-share,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-summarized,nag-summarize,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (summarized → summarize); the affix marks aspect.
+nag-uupdate,nag-u-update,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-wo-worry,nagwo-worry,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nag-wwatch,nagwa-watch,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+naga-google,naggu-Google,Needs Standardization,1,"KWF 11.3/12.40: affix + proper noun → hyphen, capital kept. Fix: reduplicated syllable joined to the affix."
+nagbubumble,nagbu-Bumble,Needs Standardization,1,"KWF 11.3/12.40: affix + proper noun → hyphen, capital kept. Fix: solid → hyphen."
+nagccrash,nagka-crash,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagcheck,nag-check,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagcrash,nag-crash,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagdate,nag-date,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagdeactivate,nag-deactivate,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagf-foodtrip,nagfu-food trip,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix. Multiword root from the source sentence.
+nagfast,nag-fast food,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen. Multiword root from the source sentence.
+naghost,nag-ghost,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagjoin,nag-join,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagka crush,nagka-crush,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+naglalag,nagla-lag,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+naglogout,nag-logout,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagoover-react,nag-o-overreact,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nagp-play,nagpe-play,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nagpa rebond,nagpa-rebond,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+nagpa shave,nagpa-shave,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+nagpaadjust,nagpa-adjust,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagpachange,nagpa-change,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagpack,nag-pack,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagpaload,nagpa-load,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagpropose,nag-propose,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagquery,nag-query,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagreach,nag-reach out,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen. Multiword root from the source sentence.
+nagreply,nag-reply,Needs Standardization,2,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagresult,nag-result,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagreview,nag-review,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagsend,nag-send,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagsserve,nagse-serve,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagsubmit,nag-submit,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagt-trending,nagte-trending,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+nagtake,nag-take,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagtry,nag-try,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nagwowork,nagwo-work,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+naka attend,naka-attend,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+naka data,naka-data,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+naka leave,naka-leave,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+naka-focused,naka-focus,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: -ed dropped (focused → focus); the affix marks aspect.
+nakaka disappoint,nakaka-disappoint,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Colloquial nakaka-/makaka-; KWF reduplicates the root instead.
+nakakastress,nakaka-stress,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Colloquial nakaka-/makaka-; KWF reduplicates the root instead.
+nakakoverwhelm,nakaka-overwhelm,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Colloquial nakaka-/makaka-; KWF reduplicates the root instead.
+nakapagprint,nakapag-print,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nakasave,naka-save,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nakaupload,naka-upload,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nalolook,nalo-look,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nanormalize,na-normalize,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+napagmeetingan,napag-meeting-an,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for a suffix on an English root; hyphen before the suffix (convention).
+napush,na-push,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+narereceive,nare-receive,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+natraffic,na-traffic,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+natry,na-try,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+naview,na-view,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+ni-react-an,ni-react-an,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for a suffix on an English root; hyphen before the suffix (convention).
+niregister,ni-register,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+niremind,ni-remind,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+nirerevise,nire-revise,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pa take,pa-take,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+paconfirm,pa-confirm,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pag aaccuse,pag-a-accuse,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen. Fix: reduplicated syllable joined to the affix.
+pag-checheat,pagche-cheat,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+paga-abstract,pag-a-abstract,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: reduplicated syllable joined to the affix.
+pahelp,pa-help,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pakeep,pa-keep,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pakitry,paki-try,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pakiverify,paki-verify,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pakiwait,paki-wait,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pang template,pang-template,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: space → hyphen.
+papull,pa-pull,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pareplyan,pa-reply-an,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for a suffix on an English root; hyphen before the suffix (convention).
+pasend,pa-send,Needs Standardization,3,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pashare,pa-share,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pasign,pa-sign,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pawait,pa-wait,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pinakaterror,pinaka-terror,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+pinicturean,ni-picture-an,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention). No KWF rule for a suffix on an English root; hyphen before the suffix (convention).
+pinost,ni-post,Non-Standard / Informal,2,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+pinush,ni-push,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+sinave,ni-save,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+sineason,ni-season,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+sinend,ni-send,Non-Standard / Informal,2,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+sinimulate,ni-simulate,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+sinort,ni-sort,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+sinynchronize,ni-synchronize,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+tinest,ni-test,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+tinetest,tine-test,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; infixed syllable + hyphen (convention).
+tinext,ni-text,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+tinransfer,ni-transfer,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+tinransmit,ni-transmit,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+tinry,ni-try,Non-Standard / Informal,3,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+tinype,ni-type,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for -in-/-um- inside an English root; written ni-/um- + hyphen (convention).
+umacting,um-acting,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+umattend,um-attend,Needs Standardization,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. Fix: solid → hyphen.
+videohan,video-han,Non-Standard / Informal,1,KWF 11.3/12.40: affix + foreign word in original spelling → hyphen. No KWF rule for a suffix on an English root; hyphen before the suffix (convention).
