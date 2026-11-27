@@ -15,8 +15,10 @@ reviewed and checked against the sheet's **Validator View** tab. Snapshot taken 
 | `taglish_corpus.csv` | Each entry with total frequency, affix, root word, morphological pattern, aspect/POS, KWF status, the KWF basis, and the source spellings merged into it. Sorted by frequency. |
 | `variant_map.csv` | 307 source spellings that needed fixing, mapped to their entry (`nagreply` → `nag-reply`, `nag-backup` → `nag-back up`, `tinry` → `ni-try`). Useful for spell-check suggestions. |
 | `excluded.csv` | 17 rows left out: 11 with a Tagalog root, 6 numerals. |
-| `data/taglish_compound_corpus_sheet.csv` | The sheet tab the files are built from. |
-| `build_corpus.py` | Rebuilds every file above from the snapshot. |
+| `taglish_sentences.txt` | The sentence corpus: 588 gold-standard sentences from the 60% corpus partition, one per line. |
+| `taglish_sentences.csv` | All 591 sentences of the partition with sentence ID, gold sentence, where the gold form comes from, the original sentence, the validators' verdicts and remarks, and the detected compound words. |
+| `data/*.csv` | Snapshots of the three sheet tabs the files are built from: Taglish Compound Corpus, Processed Sentences, Validator View. |
+| `build_corpus.py` | Rebuilds every file above from the snapshots. |
 
 Rebuild after editing the sheet (standard-library Python, no installs):
 
@@ -26,6 +28,27 @@ python build_corpus.py              # build from the saved snapshot
 ```
 
 The build stops if any row in the sheet still has a blank **Corpus Inclusion**.
+
+## Sentence corpus
+
+The Processed Sentences tab splits the 985 eligible sentences 60/30/10. The sentence
+corpus is the **60% - Correct Taglish Corpus** partition (591 sentences), each in its
+gold-standard form from the Validator View:
+
+- **Validator revision** (208): the validators' revised sentence, e.g.
+  *Natry mo na ba…* → *Na-try mo na ba…*
+- **Original** (380): sentences the validators marked Acceptable, kept as written.
+- **Pending** (3), left out of `taglish_sentences.txt` until the Validator View has a
+  complete revision:
+  - S0125: the revision column holds only "ang cellphone";
+  - S0249: Needs Revision, no revision; the remark says *Na-update* is possibly meant;
+  - S0342: Needs Revision, no revision or remark (orthography marked Correct).
+
+The 300 Testing Data and 94 Dev Validation sentences are deliberately not in the
+sentence corpus, so CA-Spell is never evaluated on sentences it was built from.
+
+The gold sentences are the validators' text, so a few words differ from the word list
+where the corpus convention was kept (e.g. *tinry* in S0002, `ni-try` in the word list).
 
 ## Validator View cross-check
 
