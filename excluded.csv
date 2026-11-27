@@ -1,2 +1,18 @@
-﻿compound,frequency,reason
-mag-isa,2,Exclude - Pure Tagalog
+﻿source_form,frequency,inclusion,corpus_entry,kwf_basis
+na-404,1,Exclude - Numeral,na-404,"Numeral, not a Taglish word."
+na-5,1,Exclude - Numeral,na-5.0,"Numeral, not a Taglish word."
+nag-1,1,Exclude - Numeral,nag-1.0,"Numeral, not a Taglish word."
+nag-3,1,Exclude - Numeral,nag-3-in-1,"Numeral, not a Taglish word."
+naka-10k,1,Exclude - Numeral,naka-10k,"Numeral, not a Taglish word."
+naka-5,1,Exclude - Numeral,naka-5,"Numeral, not a Taglish word."
+mag-isa,2,Exclude - Pure Tagalog,mag-isa,"Tagalog root, not Taglish. Entry = KWF spelling."
+mag-yosi,1,Exclude - Pure Tagalog,magyosi,"Tagalog root, not Taglish. Entry = KWF spelling."
+na-sabaw,1,Exclude - Pure Tagalog,nasabaw,"Tagalog root, not Taglish. Entry = KWF spelling."
+nag-aayos,1,Exclude - Pure Tagalog,nag-aayos,"Tagalog root, not Taglish. Entry = KWF spelling."
+nag-ambag,1,Exclude - Pure Tagalog,nag-ambag,"Tagalog root, not Taglish. Entry = KWF spelling."
+nag-pancit,1,Exclude - Pure Tagalog,nagpansit,"Tagalog root, not Taglish. Entry = KWF spelling."
+nag-silog,1,Exclude - Pure Tagalog,nagsilog,"Tagalog root, not Taglish. Entry = KWF spelling."
+naka-trabaho,1,Exclude - Pure Tagalog,nakatrabaho,"Tagalog root, not Taglish. Entry = KWF spelling."
+napa-pansin,1,Exclude - Pure Tagalog,napapansin,"Tagalog root, not Taglish. Entry = KWF spelling."
+pang-ilan,1,Exclude - Pure Tagalog,pang-ilan,"Tagalog root, not Taglish. Entry = KWF spelling."
+pang-paso,1,Exclude - Pure Tagalog,pampaso,"Tagalog root, not Taglish. Entry = KWF spelling."

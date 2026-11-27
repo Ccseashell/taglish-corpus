@@ -1,4 +1,4 @@
-chine-charge
+china-charge
 dine-define
 drawing-an
 i-ask
@@ -10,7 +10,7 @@ i-calculate
 i-celebrate
 i-charge
 i-chat
-i-chatgpt
+i-ChatGPT
 i-check
 i-close
 i-commit
@@ -35,7 +35,7 @@ i-gaslight
 i-generate
 i-grab
 i-grill
-i-guilt
+i-guilt trip
 i-handle
 i-highlight
 i-illustrate
@@ -79,6 +79,7 @@ i-share
 i-shoot
 i-spam
 i-spoil
+i-SS
 i-submit
 i-super
 i-tag
@@ -88,13 +89,13 @@ i-unfollow
 i-up
 i-view
 i-wallpaper
-ibi-binge watch
+ibi-binge-watch
 iche-check
-ico-calibrate
 ico-configure
 ide-debug
 ie-evaluate
 ii-implement
+ika-calibrate
 ikaka-depress
 in-add
 in-adjust
@@ -106,10 +107,13 @@ in-encode
 in-export
 in-ignore
 in-install
+in-integrate
+in-isolate
 in-open
 in-order
 in-scroll
 in-uninstall
+in-update
 in-upload
 ina-analyze
 ina-ask
@@ -119,11 +123,8 @@ ina-evaluate
 ine-edit
 ine-encapsulate
 ine-next
-ini-integrate
-ini-isolate
 ini-screenshot
 ini-stalk
-ini-update
 io-organize
 ipa-check
 ipa-convert
@@ -131,153 +132,1415 @@ ipa-frame
 ipa-pass
 ipa-remind
 ipapa-check
+ipre-present
 ire-remove
 ire-report
 ise-send
 ise-share
+isu-submit
 ivi-visit
 ka-block
 ka-chat
 ka-group
 ka-hug
 ka-kiss
+ka-team
+ka-work
+kumo-correspond
 ma-access
-ma-balance
+ma-balance diet
 ma-bypass
 ma-check
+ma-communicate
 ma-confused
 ma-convince
 ma-copy
 ma-debug
 ma-delete
 ma-deliver
+ma-demote
+ma-deploy
+ma-disconnect
+ma-edit
+ma-enjoy
+ma-eyestrain
+ma-fail
+ma-figure out
+ma-finalize
+ma-finance
+ma-fix
+ma-flank
+ma-forgot
+ma-fresh
+ma-hack
 ma-improve
+ma-inspire
+ma-install
 ma-late
+ma-lowbat
+ma-master
+ma-meet
+ma-memorize
+ma-modify
+ma-notarize
 ma-open
+ma-organize
+ma-overcome
+ma-pass
+ma-post
+ma-process
+ma-proofread
+ma-recall
+ma-relax
+ma-repost
+ma-review
+ma-role
+ma-say
+ma-send
+ma-short
+ma-sight
+ma-snatch
+ma-stress
+ma-sunburn
+ma-sure
+ma-tamper
+ma-test
 ma-upload
+ma-validate
+mae-excuse
 mag-a-apply
+mag-a-ask
 mag-a-attend
+mag-adjust
 mag-answer
+mag-apply
+mag-assume
+mag-attend
+mag-avail
+mag-Bedwars
+mag-beg
+mag-book
+mag-boot
+mag-budget
+mag-carpool
+mag-catch up
+mag-celebrate
+mag-champion
+mag-change
+mag-charge
 mag-check
+mag-check-in
+mag-checkout
+mag-cite
+mag-class
+mag-clear
 mag-code
+mag-commit
 mag-commute
+mag-compshop
+mag-conclude
+mag-confirm
 mag-connect
 mag-cook
 mag-date
+mag-deathmatch
+mag-decide
+mag-declutter
 mag-deploy
 mag-design
+mag-develop
+mag-download
+mag-drive
+mag-dry
+mag-e-enjoy
+mag-e-exam
+mag-e-exercise
+mag-e-LRT
+mag-eat
 mag-edit
+mag-EDSA
+mag-enlist
+mag-evaluate
+mag-exit
+mag-expire
+mag-file
+mag-finish
+mag-first day
+mag-fit
+mag-focus
+mag-fold
+mag-format
+mag-forward
+mag-generate
+mag-go
 mag-grocery
+mag-heal
+mag-hype
+mag-hypothesis
+mag-import
 mag-install
+mag-instantiate
+mag-integrate
 mag-jogging
 mag-join
+mag-joke
+mag-lag
+mag-Lagoon
+mag-laugh
+mag-leave
+mag-leg day
+mag-like
+mag-log out
+mag-login
+mag-lunch
+mag-lurk
+mag-maintain
 mag-meet
+mag-meeting
+mag-migrate
+mag-notes
+mag-offline
+mag-online class
+mag-open
 mag-order
+mag-overthink
+mag-park
+mag-participate
+mag-picture
 mag-play
+mag-PNR
+mag-post
+mag-practice
+mag-prepare
 mag-present
+mag-print
+mag-pull request
+mag-push
+mag-rank game
+mag-record
+mag-recycle
+mag-register
 mag-release
+mag-reply
+mag-reschedule
+mag-reset
+mag-respond
 mag-review
+mag-rides
+mag-samgyupsal
+mag-save
+mag-scroll
+mag-search
+mag-shopping
+mag-simulate
+mag-single use
+mag-siomai rice
 mag-sleep
+mag-slip
+mag-solve
+mag-sorry
+mag-splurge
+mag-start
+mag-stop
+mag-store
+mag-stretch
+mag-submit
+mag-sunscreen
+mag-survive
+mag-taxi
+mag-test
+mag-text
+mag-thank you
+mag-travel
 mag-type
+mag-u-upload
 mag-update
-male-late
+mag-VC
+mag-verify
+mag-video
+mag-wait
+mag-wake up
+mag-walk-in
+mag-wash
+mag-watch
+mag-wide peek
+mag-work
+mag-worry
+magbi-binge-watch
+magcle-clean
+magco-color
+magco-commute
+magge-generate
+maggi-gym
+maggro-grocery
+magja-Jollibee
+magla-laptop
+magla-lock in
+magpa-power nap
+magpapa-meet
+magpra-pray
+magre-ready
+magre-respond
+magre-review
+magre-revise
+magro-RobMan
+magse-send
+magse-set up
+magseselpon
+magwo-work
+maka-play
+maka-run
+maka-submit
+makaka-join
+makapag-plan
+makapag-ready
+mala-late
+na-access
+na-add
+na-addict
+na-adjust
+na-admit
+na-appreciate
+na-approve
+na-ask
+na-assign
+na-avail
+na-aware
+na-awkward
+na-backup
+na-ban
+na-bankrupt
+na-bash
+na-blank
+na-blow up
+na-book
+na-bored
+na-break
+na-brick
+na-broke
+na-build
+na-bump
+na-burn
+na-burnout
+na-busted
+na-call out
 na-cancel
+na-catfish
+na-change topic
+na-charge
 na-check
+na-checkout
+na-closing
 na-clutch
+na-code
+na-comply
+na-confine
+na-confirm
+na-conflict
+na-confuse
+na-connect
+na-consider
+na-consume
+na-corner
+na-corrupt
+na-cramps
+na-crave
+na-cringe
+na-crunch time
+na-Ctrl+S
+na-culture shock
+na-cum laude
+na-curve
+na-DC
+na-dean's list
+na-debug
+na-decline
+na-deduct
+na-defend
+na-dehydrate
 na-delay
 na-delete
+na-demotivate
+na-deny
+na-deploy
+na-deposit
+na-depress
+na-derank
+na-devastate
+na-develop
+na-diagnose
+na-dirty data
+na-dirty-han
+na-disappoint
+na-discharge
+na-disconnect
+na-distract
+na-dizzy
+na-down
 na-download
+na-drain
+na-drown
+na-dump
+na-earn
+na-edit
+na-embarrass
+na-emotional
+na-encrypt
+na-endo
+na-error
+na-excite
+na-exhaust
+na-export
+na-expose
+na-finalize
 na-finish
+na-fix
+na-flag
+na-flood
+na-food poison
+na-forgive
+na-forgot
 na-forward
+na-fried
+na-friendzone
+na-frustrate
+na-fry
+na-full
+na-gank
 na-gets
+na-grounded
+na-guilty
 na-hack
+na-hallucinate
+na-hassle
+na-headache
+na-headhunt
+na-heartbroken
+na-heat stroke
+na-heated
+na-high blood
+na-hire
+na-history lesson
+na-hold
+na-homesick
+na-hook
+na-humble
 na-hurt
+na-impress
+na-INC
+na-inherit
+na-insecure
+na-inspire
+na-interrogate
+na-interview
+na-irreg
+na-jealous
+na-jittery
+na-kick
+na-kiss
+na-knock over
+na-lag
 na-late
+na-layoff
+na-lead on
+na-left out
+na-lesson learned
+na-level up
+na-lockout
+na-logout
+na-lose
 na-lost
+na-low-battery
 na-lowbat
+na-maze
+na-meet
+na-mental breakdown
+na-merge
+na-mindblown
+na-misinterpret
 na-misplace
 na-miss
+na-mix up
+na-motivate
+na-move
+na-normalize
+na-nosebleed
+na-nostalgic
+na-notify
+na-null pointer
+na-off by one
+na-offend
+na-offer
+na-offline
+na-offload
+na-old school
+na-order
+na-out of order
+na-outdated
+na-overcharge
+na-overeat
+na-overfit
+na-overprice
+na-overweight
+na-overwhelm
+na-overwrite
+na-panel
+na-panic
+na-paranoid
+na-paste
+na-pending
+na-phish
+na-plant
+na-postpone
+na-predict
+na-pressure
+na-process
+na-production bug
+na-promote
+na-proud
+na-provide
+na-push
+na-qualify
+na-radian mode
 na-rate
+na-realize
+na-receive
+na-recharge
 na-recover
+na-recruit
+na-redeem
+na-redundant
+na-refund
+na-regular
+na-reimburse
+na-reject
+na-repair
+na-reschedule
+na-rescue
+na-restore
+na-restrict
+na-reveal
+na-revise
+na-sad
 na-save
 na-scam
+na-scare
+na-see
+na-seen zone
+na-sense
+na-shave
+na-ship
+na-shock
+na-shookt
+na-short circuit
+na-shrink
+na-shy
+na-signal number 3
+na-silent
+na-skyrocket
+na-slow
+na-snob
+na-sold out
 na-solve
+na-sore
+na-speechless
+na-sprain
+na-SQL injection
+na-squish
+na-stage fright
+na-starstruck
+na-stress
 na-stuck
+na-surprise attack
+na-suspend
+na-swap
+na-sweat
+na-sweep
+na-task
+na-tax
+na-teary-eyed
+na-tedious
+na-tempt
+na-tilt
+na-time pressure
+na-timeout
+na-tired
+na-touch
 na-traffic
+na-transfer
+na-trap
+na-traumatize
+na-trigger
+na-trim
+na-troll
+na-truncate
 na-try
+na-turn in
+na-typo
+na-understand
+na-unfriend
+na-unpaid labor
+na-unsend
+na-update
+na-upgrade
 na-upload
-na-wrong
+na-view
+na-visit
+na-warning
+na-waste
+na-wet
+na-whitelist
+na-wipe
+na-wow
+na-wreck
+na-wrong send
+na-yawn
+na-zero
+na-zone out
+naba-bad trip
+nache-check-an
+nae-enjoy
+nae-experience
+naeksayt
+nag-a-analyze
 nag-a-arrange
+nag-a-attempt
+nag-absent
+nag-access
+nag-accident
+nag-acquaintance
+nag-add
+nag-adjust
+nag-adopt
+nag-advance
+nag-AFK
+nag-AI
+nag-aim train
+nag-alarm
+nag-all-nighter
+nag-alumni
+nag-announce
 nag-answer
+nag-API
+nag-APK
+nag-appear
+nag-Arduino
+nag-argue
+nag-ask
+nag-assembly
 nag-assign
+nag-assume
+nag-asynchronous
+nag-attitude
+nag-auto reply
+nag-automata
+nag-AWS certification
+nag-babysit
+nag-backout
 nag-backup
+nag-bake
+nag-barbecue
+nag-beta test
+nag-Big O
+nag-binge-watch
+nag-blazer
+nag-bloat
+nag-blocker report
+nag-blow out
+nag-blue screen
+nag-bonus points
+nag-book
+nag-bootcamp
+nag-bossy
+nag-BPO
+nag-branch
+nag-breakout
+nag-bring
+nag-brownout
+nag-browse
+nag-budget
+nag-buffer
+nag-buffet
+nag-bug
+nag-build
+nag-Burger King
+nag-buy
 nag-call
-nag-cash
+nag-camping
+nag-cancel
+nag-Canva
+nag-cardio
+nag-career shift
+nag-cash in
+nag-chapter 1
+nag-charge
 nag-chat
+nag-cheat
 nag-check
+nag-checkout
+nag-cheer
+nag-chill
+nag-Christmas
+nag-church
+nag-cite
+nag-clack
+nag-clap
 nag-clean
+nag-clearance
+nag-click
+nag-clone
+nag-cloud storage
+nag-COD
+nag-code review
+nag-coding
+nag-collect
+nag-comment
+nag-commit
+nag-community service
+nag-compare
 nag-compile
+nag-complain
+nag-compose
+nag-compost
+nag-computer shop
+nag-concert
+nag-confess
+nag-console log
+nag-consultation
+nag-contribute
+nag-cool off
+nag-Copilot
+nag-copy paste
+nag-craft
 nag-cram
+nag-cranky
 nag-crash
+nag-crave
+nag-cry
+nag-CS
+nag-CTF
+nag-cup noodles
+nag-curfew
+nag-dark mode
+nag-data science
+nag-dataset
+nag-date
+nag-deactivate
+nag-dead batt
+nag-debate
 nag-debug
 nag-decide
+nag-declutter
+nag-deconstruct
+nag-defuse
+nag-delegate
+nag-demo
+nag-demonstrate
+nag-deploy
+nag-derive
 nag-design
-nag-dine
+nag-detour
+nag-diet
+nag-dine in
+nag-discrete math
+nag-dive
+nag-DM
+nag-donate
+nag-doodle
+nag-dorm
 nag-download
-nag-drive
+nag-drill
+nag-drive thru
+nag-drop
+nag-dual boot
+nag-e-edit
+nag-e-error
+nag-e-exact
+nag-e-exam
+nag-eat
+nag-eco
+nag-eco-friendly
+nag-ecobag
 nag-edit
+nag-effort
+nag-elevator
+nag-email
+nag-emote
+nag-encode
+nag-energy drink
+nag-enroll
+nag-ERD
 nag-error
-nag-follow
-nag-force
+nag-ethical hacking
+nag-ethics
+nag-evacuate
+nag-exam
+nag-Excel
+nag-exchange gift
+nag-excuse
+nag-expire
+nag-explain
+nag-extension
+nag-extra rice
+nag-eye bags
+nag-eyeball
+nag-face to face
+nag-Facebook
+nag-fake
+nag-fangirl
+nag-fast food
+nag-feed
+nag-feedback
+nag-feeling close
+nag-ferry
+nag-fight
+nag-Figma
+nag-fishball
+nag-fit-check
+nag-flag ceremony
+nag-flex
+nag-flirt
+nag-flowchart
+nag-Flutter
+nag-follow up
+nag-food crawl
+nag-force buy
+nag-formal attire
+nag-free ride
+nag-freelance
+nag-freeze
+nag-freshman orientation
+nag-gacha
+nag-gamble
+nag-GCash
+nag-general cleaning
+nag-generate
+nag-ghost
+nag-gift
+nag-Git pull
+nag-glow up
+nag-Google Forms
+nag-gossip
+nag-Grab
+nag-graduate
+nag-graduation pictorial
+nag-Grammarly
+nag-grind
 nag-grocery
-nag-group
+nag-group study
+nag-gym
+nag-hackathon
+nag-HackerRank
+nag-Hacktoberfest
+nag-handle
+nag-handwrite
+nag-hang
+nag-hangout
+nag-hash
+nag-hibernate
+nag-hiking
+nag-homework
+nag-host
+nag-hotfix
+nag-hotspot
+nag-house-clean
+nag-i-imagine
+nag-i-integrate
+nag-i-inventory
+nag-iced coffee
+nag-imposter syndrome
+nag-improvise
+nag-index out of bounds
+nag-infinite loop
+nag-inherit
 nag-install
-nag-log
-nag-mass
+nag-instalock
+nag-integrate
+nag-intermission number
+nag-internship
+nag-intrams
+nag-invite
+nag-iOS
+nag-IoT
+nag-iPad
+nag-island hopping
+nag-IT support
+nag-jacket
+nag-Java
+nag-jeep
+nag-job hunting
+nag-JobStreet
+nag-join
+nag-joke
+nag-junior dev
+nag-keto
+nag-kiss
+nag-lab
+nag-Laravel
+nag-laundry
+nag-Lazada
+nag-LBM
+nag-leave
+nag-LeetCode
+nag-library
+nag-LinkedIn
+nag-Linux
+nag-live
+nag-log out
+nag-logbook
+nag-login
+nag-logout
+nag-long quiz
+nag-LRT
+nag-lunch break
+nag-machine learning
+nag-makeup
+nag-malfunction
+nag-marathon
+nag-march
+nag-mass email
+nag-match
+nag-matcha
+nag-materials
+nag-meal-prep
+nag-mechanical keyboard
+nag-meet
+nag-meeting
+nag-memo
+nag-mental health day
 nag-message
-nag-open
+nag-midterms
+nag-mine
+nag-Minecraft
+nag-mobile app
+nag-mobilize
+nag-mock interview
+nag-morning walk
+nag-movie
+nag-multitask
+nag-My Day
+nag-New Year
+nag-night shift
+nag-no show
+nag-noise barrage
+nag-NSTP
+nag-o-open
+nag-o-organize
+nag-o-overload
+nag-o-overreact
+nag-observe
+nag-OJT
+nag-online booking
+nag-OOP
+nag-open up
+nag-oral
 nag-order
+nag-org fair
+nag-organize
+nag-overclock
+nag-overflow
+nag-overheat
+nag-overspend
+nag-overthink
+nag-overtime
+nag-pack
+nag-Packet Tracer
+nag-palpitate
+nag-park
+nag-participate
+nag-PE
+nag-pep talk
+nag-petition
+nag-photoshoot
+nag-PHP
+nag-pisonet
+nag-pitch
+nag-pivot table
+nag-plagiarize
+nag-plan
+nag-play
+nag-playdate
+nag-please
+nag-pool
+nag-poop
+nag-pose
 nag-post
+nag-potluck
+nag-power nap
+nag-PowerPoint
 nag-practice
+nag-prank
+nag-pray
 nag-prepare
+nag-present
 nag-print
+nag-probability
+nag-proof
+nag-propose
+nag-pseudocode
+nag-pull request
+nag-PUP
+nag-PUPCET
+nag-Python
+nag-Q&A
+nag-QR attendance
+nag-query
+nag-queue
+nag-QuillBot
+nag-quit
+nag-rage quit
+nag-rally
+nag-random call
+nag-rank up
+nag-ranked
+nag-rant
+nag-reach out
+nag-react
+nag-reaction paper
+nag-rebook
+nag-recital
+nag-recitation
+nag-redstone
+nag-reformat
+nag-refresh
+nag-relapse
+nag-relief operation
+nag-remote
 nag-reply
+nag-report
+nag-reporting
 nag-request
+nag-require
 nag-research
+nag-reseller
+nag-reserve
+nag-reset
+nag-resign
+nag-respawn
+nag-result
+nag-retake
+nag-reunion
 nag-review
+nag-revise
+nag-Rizal course
+nag-road trip
+nag-roam
+nag-ROTC
+nag-run
+nag-Sage
+nag-sale
+nag-samgyup
+nag-save
+nag-school wifi
+nag-scientific calculator
+nag-scrim
+nag-scroll
+nag-search
+nag-Secret Santa
+nag-secure
+nag-segfault
+nag-self study
+nag-selfie
+nag-seminar
+nag-send
+nag-set up
+nag-shake
+nag-shift
+nag-Shopee
+nag-showdown
+nag-shower
+nag-shutdown
+nag-side project
+nag-sideline
+nag-sign up
+nag-silent treatment
+nag-skin-care
+nag-skincare
+nag-skip class
 nag-sleep
+nag-slow down
+nag-smurf
+nag-sneak out
+nag-snorkeling
+nag-solder
+nag-sorry
+nag-speedrun
+nag-spike
+nag-split
+nag-sponsor
+nag-sprint
+nag-SSD
+nag-standup
+nag-staycation
+nag-step up
+nag-stir-fry
+nag-story
+nag-street food trip
+nag-study
+nag-stutter
+nag-submit
+nag-subnet
+nag-subscribe
+nag-sudo
+nag-summarize
+nag-support
+nag-surrender
+nag-survey
+nag-sweet talk
+nag-swimming
+nag-take
+nag-talk
+nag-tantrums
+nag-tech talk
+nag-technical interview
+nag-teething
+nag-template
+nag-terminal
+nag-terror mode
+nag-test
 nag-text
-nag-tiktok
+nag-thrift
+nag-throw
+nag-TikTok
+nag-time in
+nag-title defense
+nag-toga
+nag-top up
+nag-toss
+nag-tour
+nag-train
+nag-treat
+nag-tree planting
+nag-trending
+nag-truth table
+nag-try
+nag-tryhard
+nag-Turnitin
+nag-type
+nag-u-update
+nag-u-upskill
+nag-UML
+nag-unli rice
+nag-unmatch
+nag-unwind
 nag-update
 nag-upload
+nag-USB
+nag-user testing
+nag-vent
+nag-verify
+nag-vet
+nag-videoke
+nag-Vim
+nag-viral
+nag-voice
+nag-volunteer
+nag-vomit
+nag-VPN
+nag-VS Code
+nag-wade
 nag-wait
-nag-walk
+nag-walk out
+nag-WFH
+nag-whiteboard
+nag-withdraw
 nag-workout
-nagko-correspond
+nag-write
+nag-XAMPP
+nag-xerox
+nag-zoomies
+nagba-backread
+nagba-backup
+nagba-browse
+nagba-budget plan
+nagbu-Bumble
+nagche-check
+nagco-code
+nagfu-food trip
+naggli-glitch
+naggu-Google
+nagha-hallucinate
+nagka-crash
+nagka-crush
+nagko-comment
+nagla-lag
+naglo-loading
+nagpa-adjust
+nagpa-change
+nagpa-load
+nagpa-rebond
+nagpa-shave
+nagpa-trim
+nagpe-play
+nagpe-prepare
+nagpi-freeze
+nagre-review
+nagse-cellphone
+nagse-serve
+nagsha-share
+nagso-scroll
+nagte-trending
+nagva-Valorant
+nagwa-watch
+nagwo-work
+nagwo-worry
+nai-send
+naka-ace
+naka-aircon
+naka-assign
+naka-attend
+naka-avoid
+naka-bedspace
+naka-capture
+naka-connect
+naka-data
+naka-deafen
+naka-easy
+naka-flat uno
+naka-focus
+naka-generator
+naka-goggles
+naka-graduate
+naka-graveyard
+naka-green dot
+naka-hacker vibes
+naka-join
+naka-leave
+naka-localhost
+naka-Mac
+naka-move on
+naka-mute
+naka-off
+naka-outlet
+naka-PC
+naka-perfect
+naka-plain text
+naka-ready
+naka-red
+naka-relax
+naka-savage
+naka-save
 naka-schedule
-ni-back
+naka-score
+naka-shaders
+naka-situationship
+naka-slot
+naka-steps
+naka-survive
+naka-tutorial hell
+naka-uniform
+naka-upload
+naka-vacant
+naka-waitlist
+nakaka-disappoint
+nakaka-overwhelm
+nakaka-stress
+nakapag-print
+nalo-look
+napa-close
+napa-reverse walk
+napag-meeting-an
+napaka-cool
+napaka-cute
+napaka-expensive
+napaka-hassle
+nare-receive
+navi-visualize
+ni-accept
+ni-autocomplete
+ni-back up
 ni-backstab
+ni-bell
 ni-block
+ni-boost
+ni-brag
 ni-browse
 ni-build
 ni-bypass
 ni-cancel
+ni-carry
 ni-chat
 ni-check
+ni-clarify
+ni-clean
+ni-configure
 ni-confiscate
+ni-convert
+ni-crop
 ni-deliver
 ni-design
 ni-develop
+ni-dim
 ni-disassemble
+ni-distribute
 ni-download
+ni-edit
+ni-enchant
+ni-encode
+ni-encrypt
+ni-flash
 ni-format
+ni-giveaway
+ni-grief
+ni-hardcode
+ni-launch
+ni-lecture
+ni-like
+ni-marinate
+ni-mention
+ni-microwave
+ni-modify
+ni-monitor
+ni-normalize
+ni-picture-an
+ni-PM
 ni-post
+ni-potty train
+ni-present
+ni-push
+ni-quote tweet
+ni-react-an
+ni-rebuild
+ni-refactor
+ni-reformat
+ni-refresh
+ni-register
+ni-reject
+ni-release
+ni-remind
+ni-remove
+ni-repaste
+ni-report
+ni-reroute
+ni-respect
+ni-reuse
+ni-revert
+ni-revise
+ni-roast
+ni-run
+ni-save
+ni-screenshot
+ni-season
 ni-send
+ni-setup
+ni-sideload
+ni-simplify
+ni-simulate
+ni-smoke
+ni-snooze
+ni-sort
+ni-summon
+ni-surprise
+ni-synchronize
+ni-take
+ni-test
+ni-text
+ni-trace
+ni-track
+ni-train
+ni-transfer
+ni-transmit
 ni-try
+ni-type
+ni-upcycle
+ni-vacuum
+ni-wireframe
+ni-wishlist
+nire-revise
+pa-accept
+pa-AirDrop
+pa-approve
+pa-Baguio
+pa-borrow
+pa-Cebu
 pa-charge
 pa-check
+pa-compile
+pa-confirm
+pa-connect
+pa-copy
+pa-follow up
+pa-help
+pa-keep
+pa-Marilaque
+pa-open
+pa-photocopy
+pa-picture
+pa-print
+pa-process
+pa-pull
+pa-refill
+pa-remove
+pa-reply-an
+pa-reserve
+pa-save
+pa-selfie
 pa-send
+pa-share
+pa-sight
+pa-sign
+pa-Sta. Mesa
+pa-take
+pa-update
+pa-Valorant
+pa-verify
+pa-wait
+pa-xerox
+pag-a-abstract
+pag-a-accuse
+pag-develop
+pag-freeze
+pag-hack
+pag-jogging
+pag-review
+pagche-cheat
+paghi-hide
+paki-adjust
+paki-ask
 paki-attach
 paki-check
+paki-close
+paki-debug
+paki-fill up
+paki-finalize
+paki-integrate
+paki-label
+paki-picture
+paki-test
+paki-try
+paki-update
+paki-validate
+paki-verify
+paki-wait
+pang-bills
+pang-diamonds
+pang-Nitro
+pang-play
+pang-story
+pang-template
+pang-TikTok
+pina-clean
+pina-connect
+pina-customize
+pina-decrypt
 pina-deliver
+pina-finish
+pina-frame
+pina-link
+pina-message
+pina-optimize
 pina-process
+pina-prompt
+pina-raffle
+pina-render
+pina-reserve
+pina-resize
+pina-revise
+pina-run
+pina-validate
+pina-wrap
+pinaka-terror
+tine-test
+um-acting
+um-attend
+video-han
