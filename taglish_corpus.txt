@@ -1,9 +1,10 @@
+binlock
 china-charge
 dine-define
 drawing-an
 i-ask
 i-authenticate
-i-backup
+i-back up
 i-block
 i-browse
 i-calculate
@@ -35,7 +36,7 @@ i-gaslight
 i-generate
 i-grab
 i-grill
-i-guilt trip
+i-guilt
 i-handle
 i-highlight
 i-illustrate
@@ -91,12 +92,12 @@ i-view
 i-wallpaper
 ibi-binge-watch
 iche-check
-ico-configure
 ide-debug
 ie-evaluate
 ii-implement
 ika-calibrate
 ikaka-depress
+iko-configure
 in-add
 in-adjust
 in-apply-an
@@ -123,7 +124,6 @@ ina-evaluate
 ine-edit
 ine-encapsulate
 ine-next
-ini-screenshot
 ini-stalk
 io-organize
 ipa-check
@@ -132,7 +132,7 @@ ipa-frame
 ipa-pass
 ipa-remind
 ipapa-check
-ipre-present
+ipe-present
 ire-remove
 ire-report
 ise-send
@@ -148,7 +148,7 @@ ka-team
 ka-work
 kumo-correspond
 ma-access
-ma-balance diet
+ma-balance
 ma-bypass
 ma-check
 ma-communicate
@@ -165,7 +165,7 @@ ma-edit
 ma-enjoy
 ma-eyestrain
 ma-fail
-ma-figure out
+ma-figure
 ma-finalize
 ma-finance
 ma-fix
@@ -201,7 +201,7 @@ ma-short
 ma-sight
 ma-snatch
 ma-stress
-ma-sunburn
+ma-sunburned
 ma-sure
 ma-tamper
 ma-test
@@ -211,6 +211,7 @@ mae-excuse
 mag-a-apply
 mag-a-ask
 mag-a-attend
+mag-a-upload
 mag-adjust
 mag-answer
 mag-apply
@@ -223,14 +224,14 @@ mag-book
 mag-boot
 mag-budget
 mag-carpool
-mag-catch up
+mag-catch
 mag-celebrate
 mag-champion
 mag-change
 mag-charge
 mag-check
-mag-check-in
-mag-checkout
+mag-check in
+mag-check out
 mag-cite
 mag-class
 mag-clear
@@ -265,7 +266,7 @@ mag-exit
 mag-expire
 mag-file
 mag-finish
-mag-first day
+mag-first
 mag-fit
 mag-focus
 mag-fold
@@ -288,10 +289,10 @@ mag-lag
 mag-Lagoon
 mag-laugh
 mag-leave
-mag-leg day
+mag-leg
 mag-like
-mag-log out
-mag-login
+mag-log
+mag-log in
 mag-lunch
 mag-lurk
 mag-maintain
@@ -300,7 +301,7 @@ mag-meeting
 mag-migrate
 mag-notes
 mag-offline
-mag-online class
+mag-online
 mag-open
 mag-order
 mag-overthink
@@ -314,9 +315,9 @@ mag-practice
 mag-prepare
 mag-present
 mag-print
-mag-pull request
+mag-pull
 mag-push
-mag-rank game
+mag-rank
 mag-record
 mag-recycle
 mag-register
@@ -333,8 +334,8 @@ mag-scroll
 mag-search
 mag-shopping
 mag-simulate
-mag-single use
-mag-siomai rice
+mag-single
+mag-siomai
 mag-sleep
 mag-slip
 mag-solve
@@ -350,7 +351,7 @@ mag-survive
 mag-taxi
 mag-test
 mag-text
-mag-thank you
+mag-thank
 mag-travel
 mag-type
 mag-u-upload
@@ -359,24 +360,24 @@ mag-VC
 mag-verify
 mag-video
 mag-wait
-mag-wake up
+mag-wake
 mag-walk-in
 mag-wash
 mag-watch
-mag-wide peek
+mag-wide
 mag-work
 mag-worry
 magbi-binge-watch
-magcle-clean
-magco-color
-magco-commute
 magge-generate
 maggi-gym
 maggro-grocery
 magja-Jollibee
+magki-clean
+magko-color
+magko-commute
 magla-laptop
-magla-lock in
-magpa-power nap
+magla-lock
+magpa-power
 magpapa-meet
 magpra-pray
 magre-ready
@@ -385,7 +386,7 @@ magre-review
 magre-revise
 magro-RobMan
 magse-send
-magse-set up
+magse-set
 magseselpon
 magwo-work
 maka-play
@@ -394,7 +395,7 @@ maka-submit
 makaka-join
 makapag-plan
 makapag-ready
-mala-late
+male-late
 na-access
 na-add
 na-addict
@@ -407,29 +408,29 @@ na-assign
 na-avail
 na-aware
 na-awkward
-na-backup
+na-back up
 na-ban
 na-bankrupt
 na-bash
 na-blank
-na-blow up
+na-blow
 na-book
 na-bored
 na-break
 na-brick
 na-broke
-na-build
+na-built
 na-bump
 na-burn
-na-burnout
+na-burn out
 na-busted
-na-call out
+na-call
 na-cancel
 na-catfish
-na-change topic
+na-change
 na-charge
 na-check
-na-checkout
+na-check out
 na-closing
 na-clutch
 na-code
@@ -446,13 +447,13 @@ na-corrupt
 na-cramps
 na-crave
 na-cringe
-na-crunch time
-na-Ctrl+S
-na-culture shock
-na-cum laude
+na-crunch
+na-Ctrl
+na-culture
+na-cum
 na-curve
 na-DC
-na-dean's list
+na-dean's
 na-debug
 na-decline
 na-deduct
@@ -469,7 +470,7 @@ na-derank
 na-devastate
 na-develop
 na-diagnose
-na-dirty data
+na-dirty
 na-dirty-han
 na-disappoint
 na-discharge
@@ -478,9 +479,11 @@ na-distract
 na-dizzy
 na-down
 na-download
-na-drain
+na-drained
 na-drown
 na-dump
+na-e-enjoy
+na-e-experience
 na-earn
 na-edit
 na-embarrass
@@ -496,8 +499,8 @@ na-finalize
 na-finish
 na-fix
 na-flag
-na-flood
-na-food poison
+na-flooded
+na-food
 na-forgive
 na-forgot
 na-forward
@@ -516,21 +519,21 @@ na-hassle
 na-headache
 na-headhunt
 na-heartbroken
-na-heat stroke
+na-heat
 na-heated
-na-high blood
+na-high
 na-hire
-na-history lesson
+na-history
 na-hold
 na-homesick
-na-hook
+na-hooked
 na-humble
 na-hurt
-na-impress
+na-impressed
 na-INC
 na-inherit
 na-insecure
-na-inspire
+na-inspired
 na-interrogate
 na-interview
 na-irreg
@@ -538,44 +541,44 @@ na-jealous
 na-jittery
 na-kick
 na-kiss
-na-knock over
+na-knock
 na-lag
 na-late
-na-layoff
-na-lead on
-na-left out
-na-lesson learned
-na-level up
-na-lockout
-na-logout
+na-lay off
+na-lead
+na-left
+na-lesson
+na-level
+na-lock out
+na-log out
 na-lose
 na-lost
 na-low-battery
 na-lowbat
 na-maze
 na-meet
-na-mental breakdown
+na-mental
 na-merge
 na-mindblown
 na-misinterpret
 na-misplace
 na-miss
-na-mix up
+na-mix
 na-motivate
 na-move
 na-normalize
 na-nosebleed
 na-nostalgic
 na-notify
-na-null pointer
-na-off by one
-na-offend
+na-null
+na-off
+na-offended
 na-offer
 na-offline
 na-offload
-na-old school
+na-old
 na-order
-na-out of order
+na-out
 na-outdated
 na-overcharge
 na-overeat
@@ -595,13 +598,13 @@ na-postpone
 na-predict
 na-pressure
 na-process
-na-production bug
+na-production
 na-promote
 na-proud
 na-provide
 na-push
 na-qualify
-na-radian mode
+na-radian
 na-rate
 na-realize
 na-receive
@@ -624,62 +627,63 @@ na-revise
 na-sad
 na-save
 na-scam
-na-scare
+na-scared
 na-see
-na-seen zone
+na-seen
 na-sense
 na-shave
 na-ship
 na-shock
+na-shocked
 na-shookt
-na-short circuit
+na-short
 na-shrink
 na-shy
-na-signal number 3
+na-signal
 na-silent
 na-skyrocket
 na-slow
 na-snob
-na-sold out
+na-sold
 na-solve
 na-sore
 na-speechless
 na-sprain
-na-SQL injection
+na-SQL
 na-squish
-na-stage fright
+na-stage
 na-starstruck
 na-stress
 na-stuck
-na-surprise attack
+na-surprise
 na-suspend
 na-swap
 na-sweat
 na-sweep
 na-task
 na-tax
-na-teary-eyed
+na-teary
 na-tedious
 na-tempt
 na-tilt
-na-time pressure
+na-time
 na-timeout
 na-tired
-na-touch
+na-touched
 na-traffic
 na-transfer
 na-trap
 na-traumatize
-na-trigger
+na-triggered
 na-trim
 na-troll
 na-truncate
 na-try
-na-turn in
+na-turn
 na-typo
 na-understand
 na-unfriend
-na-unpaid labor
+na-unpaid
 na-unsend
 na-update
 na-upgrade
@@ -693,14 +697,12 @@ na-whitelist
 na-wipe
 na-wow
 na-wreck
-na-wrong send
+na-wrong
 na-yawn
 na-zero
-na-zone out
+na-zone
 naba-bad trip
 nache-check-an
-nae-enjoy
-nae-experience
 naeksayt
 nag-a-analyze
 nag-a-arrange
@@ -715,9 +717,9 @@ nag-adopt
 nag-advance
 nag-AFK
 nag-AI
-nag-aim train
+nag-aim
 nag-alarm
-nag-all-nighter
+nag-all
 nag-alumni
 nag-announce
 nag-answer
@@ -732,29 +734,29 @@ nag-assign
 nag-assume
 nag-asynchronous
 nag-attitude
-nag-auto reply
+nag-auto
 nag-automata
-nag-AWS certification
+nag-AWS
 nag-babysit
-nag-backout
-nag-backup
+nag-back out
+nag-back up
 nag-bake
 nag-barbecue
-nag-beta test
-nag-Big O
+nag-beta
+nag-Big
 nag-binge-watch
 nag-blazer
 nag-bloat
-nag-blocker report
-nag-blow out
-nag-blue screen
-nag-bonus points
+nag-blocker
+nag-blow
+nag-blue
+nag-bonus
 nag-book
 nag-bootcamp
 nag-bossy
 nag-BPO
 nag-branch
-nag-breakout
+nag-break out
 nag-bring
 nag-brownout
 nag-browse
@@ -763,21 +765,21 @@ nag-buffer
 nag-buffet
 nag-bug
 nag-build
-nag-Burger King
+nag-Burger
 nag-buy
 nag-call
 nag-camping
 nag-cancel
 nag-Canva
 nag-cardio
-nag-career shift
-nag-cash in
-nag-chapter 1
+nag-career
+nag-cash
+nag-chapter
 nag-charge
 nag-chat
 nag-cheat
 nag-check
-nag-checkout
+nag-check out
 nag-cheer
 nag-chill
 nag-Christmas
@@ -789,28 +791,28 @@ nag-clean
 nag-clearance
 nag-click
 nag-clone
-nag-cloud storage
+nag-cloud
 nag-COD
-nag-code review
+nag-code
 nag-coding
 nag-collect
 nag-comment
 nag-commit
-nag-community service
+nag-community
 nag-compare
 nag-compile
 nag-complain
 nag-compose
 nag-compost
-nag-computer shop
+nag-computer
 nag-concert
 nag-confess
-nag-console log
+nag-console
 nag-consultation
 nag-contribute
-nag-cool off
+nag-cool
 nag-Copilot
-nag-copy paste
+nag-copy
 nag-craft
 nag-cram
 nag-cranky
@@ -819,14 +821,14 @@ nag-crave
 nag-cry
 nag-CS
 nag-CTF
-nag-cup noodles
+nag-cup
 nag-curfew
-nag-dark mode
-nag-data science
+nag-dark
+nag-data
 nag-dataset
 nag-date
 nag-deactivate
-nag-dead batt
+nag-dead
 nag-debate
 nag-debug
 nag-decide
@@ -841,8 +843,8 @@ nag-derive
 nag-design
 nag-detour
 nag-diet
-nag-dine in
-nag-discrete math
+nag-dine
+nag-discrete
 nag-dive
 nag-DM
 nag-donate
@@ -850,9 +852,9 @@ nag-doodle
 nag-dorm
 nag-download
 nag-drill
-nag-drive thru
+nag-drive
 nag-drop
-nag-dual boot
+nag-dual
 nag-e-edit
 nag-e-error
 nag-e-exact
@@ -867,67 +869,67 @@ nag-elevator
 nag-email
 nag-emote
 nag-encode
-nag-energy drink
+nag-energy
 nag-enroll
 nag-ERD
 nag-error
-nag-ethical hacking
+nag-ethical
 nag-ethics
 nag-evacuate
 nag-exam
 nag-Excel
-nag-exchange gift
+nag-exchange
 nag-excuse
 nag-expire
 nag-explain
 nag-extension
-nag-extra rice
-nag-eye bags
+nag-extra
+nag-eye
 nag-eyeball
-nag-face to face
+nag-face
 nag-Facebook
 nag-fake
 nag-fangirl
-nag-fast food
+nag-fast
 nag-feed
 nag-feedback
-nag-feeling close
+nag-feeling
 nag-ferry
 nag-fight
 nag-Figma
 nag-fishball
 nag-fit-check
-nag-flag ceremony
+nag-flag
 nag-flex
 nag-flirt
 nag-flowchart
 nag-Flutter
-nag-follow up
-nag-food crawl
-nag-force buy
-nag-formal attire
-nag-free ride
+nag-follow
+nag-food
+nag-force
+nag-formal
+nag-free
 nag-freelance
 nag-freeze
-nag-freshman orientation
+nag-freshman
 nag-gacha
 nag-gamble
 nag-GCash
-nag-general cleaning
+nag-general
 nag-generate
 nag-ghost
 nag-gift
-nag-Git pull
-nag-glow up
-nag-Google Forms
+nag-git
+nag-glow
+nag-Google
 nag-gossip
 nag-Grab
 nag-graduate
-nag-graduation pictorial
+nag-graduation
 nag-Grammarly
 nag-grind
 nag-grocery
-nag-group study
+nag-group
 nag-gym
 nag-hackathon
 nag-HackerRank
@@ -935,7 +937,7 @@ nag-Hacktoberfest
 nag-handle
 nag-handwrite
 nag-hang
-nag-hangout
+nag-hang out
 nag-hash
 nag-hibernate
 nag-hiking
@@ -947,32 +949,32 @@ nag-house-clean
 nag-i-imagine
 nag-i-integrate
 nag-i-inventory
-nag-iced coffee
-nag-imposter syndrome
+nag-iced
+nag-imposter
 nag-improvise
-nag-index out of bounds
-nag-infinite loop
+nag-index
+nag-infinite
 nag-inherit
 nag-install
 nag-instalock
 nag-integrate
-nag-intermission number
+nag-intermission
 nag-internship
 nag-intrams
 nag-invite
 nag-iOS
 nag-IoT
 nag-iPad
-nag-island hopping
-nag-IT support
+nag-island
+nag-IT
 nag-jacket
 nag-Java
 nag-jeep
-nag-job hunting
+nag-job
 nag-JobStreet
 nag-join
 nag-joke
-nag-junior dev
+nag-junior
 nag-keto
 nag-kiss
 nag-lab
@@ -986,43 +988,43 @@ nag-library
 nag-LinkedIn
 nag-Linux
 nag-live
+nag-log
+nag-log in
 nag-log out
 nag-logbook
-nag-login
-nag-logout
-nag-long quiz
+nag-long
 nag-LRT
-nag-lunch break
-nag-machine learning
+nag-lunch
+nag-machine
 nag-makeup
 nag-malfunction
 nag-marathon
 nag-march
-nag-mass email
+nag-mass
 nag-match
 nag-matcha
 nag-materials
 nag-meal-prep
-nag-mechanical keyboard
+nag-mechanical
 nag-meet
 nag-meeting
 nag-memo
-nag-mental health day
+nag-mental
 nag-message
 nag-midterms
 nag-mine
 nag-Minecraft
-nag-mobile app
+nag-mobile
 nag-mobilize
-nag-mock interview
-nag-morning walk
+nag-mock
+nag-morning
 nag-movie
 nag-multitask
 nag-My Day
-nag-New Year
-nag-night shift
-nag-no show
-nag-noise barrage
+nag-New
+nag-night
+nag-no
+nag-noise
 nag-NSTP
 nag-o-open
 nag-o-organize
@@ -1030,12 +1032,12 @@ nag-o-overload
 nag-o-overreact
 nag-observe
 nag-OJT
-nag-online booking
+nag-online
 nag-OOP
-nag-open up
+nag-open
 nag-oral
 nag-order
-nag-org fair
+nag-org
 nag-organize
 nag-overclock
 nag-overflow
@@ -1044,18 +1046,18 @@ nag-overspend
 nag-overthink
 nag-overtime
 nag-pack
-nag-Packet Tracer
+nag-Packet
 nag-palpitate
 nag-park
 nag-participate
 nag-PE
-nag-pep talk
+nag-pep
 nag-petition
 nag-photoshoot
 nag-PHP
 nag-pisonet
 nag-pitch
-nag-pivot table
+nag-pivot
 nag-plagiarize
 nag-plan
 nag-play
@@ -1066,7 +1068,7 @@ nag-poop
 nag-pose
 nag-post
 nag-potluck
-nag-power nap
+nag-power
 nag-PowerPoint
 nag-practice
 nag-prank
@@ -1078,25 +1080,25 @@ nag-probability
 nag-proof
 nag-propose
 nag-pseudocode
-nag-pull request
+nag-pull
 nag-PUP
 nag-PUPCET
 nag-Python
 nag-Q&A
-nag-QR attendance
+nag-QR
 nag-query
 nag-queue
 nag-QuillBot
 nag-quit
-nag-rage quit
+nag-rage
 nag-rally
-nag-random call
-nag-rank up
+nag-random
+nag-rank
 nag-ranked
 nag-rant
-nag-reach out
+nag-reach
 nag-react
-nag-reaction paper
+nag-reaction
 nag-rebook
 nag-recital
 nag-recitation
@@ -1104,7 +1106,7 @@ nag-redstone
 nag-reformat
 nag-refresh
 nag-relapse
-nag-relief operation
+nag-relief
 nag-remote
 nag-reply
 nag-report
@@ -1122,8 +1124,8 @@ nag-retake
 nag-reunion
 nag-review
 nag-revise
-nag-Rizal course
-nag-road trip
+nag-Rizal
+nag-road
 nag-roam
 nag-ROTC
 nag-run
@@ -1131,36 +1133,37 @@ nag-Sage
 nag-sale
 nag-samgyup
 nag-save
-nag-school wifi
-nag-scientific calculator
+nag-school
+nag-scientific
+nag-screenshot
 nag-scrim
 nag-scroll
 nag-search
-nag-Secret Santa
+nag-Secret
 nag-secure
 nag-segfault
-nag-self study
+nag-self
 nag-selfie
 nag-seminar
 nag-send
-nag-set up
+nag-set
 nag-shake
 nag-shift
 nag-Shopee
 nag-showdown
 nag-shower
-nag-shutdown
-nag-side project
+nag-shut down
+nag-side
 nag-sideline
-nag-sign up
-nag-silent treatment
+nag-sign
+nag-silent
 nag-skin-care
 nag-skincare
-nag-skip class
+nag-skip
 nag-sleep
-nag-slow down
+nag-slow
 nag-smurf
-nag-sneak out
+nag-sneak
 nag-snorkeling
 nag-solder
 nag-sorry
@@ -1172,10 +1175,10 @@ nag-sprint
 nag-SSD
 nag-standup
 nag-staycation
-nag-step up
+nag-step
 nag-stir-fry
 nag-story
-nag-street food trip
+nag-street
 nag-study
 nag-stutter
 nag-submit
@@ -1186,33 +1189,33 @@ nag-summarize
 nag-support
 nag-surrender
 nag-survey
-nag-sweet talk
+nag-sweet
 nag-swimming
 nag-take
 nag-talk
 nag-tantrums
-nag-tech talk
-nag-technical interview
+nag-tech
+nag-technical
 nag-teething
 nag-template
 nag-terminal
-nag-terror mode
+nag-terror
 nag-test
 nag-text
 nag-thrift
 nag-throw
 nag-TikTok
-nag-time in
-nag-title defense
+nag-time
+nag-title
 nag-toga
-nag-top up
+nag-top
 nag-toss
 nag-tour
 nag-train
 nag-treat
-nag-tree planting
+nag-tree
 nag-trending
-nag-truth table
+nag-truth
 nag-try
 nag-tryhard
 nag-Turnitin
@@ -1220,13 +1223,13 @@ nag-type
 nag-u-update
 nag-u-upskill
 nag-UML
-nag-unli rice
+nag-unli
 nag-unmatch
 nag-unwind
 nag-update
 nag-upload
 nag-USB
-nag-user testing
+nag-user
 nag-vent
 nag-verify
 nag-vet
@@ -1237,33 +1240,34 @@ nag-voice
 nag-volunteer
 nag-vomit
 nag-VPN
-nag-VS Code
+nag-VS
 nag-wade
 nag-wait
-nag-walk out
+nag-walk
 nag-WFH
 nag-whiteboard
 nag-withdraw
-nag-workout
+nag-work out
 nag-write
 nag-XAMPP
 nag-xerox
 nag-zoomies
+nagba-back up
 nagba-backread
-nagba-backup
 nagba-browse
-nagba-budget plan
+nagba-budget
 nagbu-Bumble
 nagche-check
-nagco-code
+nagfi-freeze
 nagfu-food trip
-naggli-glitch
 naggu-Google
 nagha-hallucinate
 nagka-crash
 nagka-crush
+nagko-code
 nagko-comment
 nagla-lag
+nagli-glitch
 naglo-loading
 nagpa-adjust
 nagpa-change
@@ -1273,13 +1277,12 @@ nagpa-shave
 nagpa-trim
 nagpe-play
 nagpe-prepare
-nagpi-freeze
 nagre-review
 nagse-cellphone
 nagse-serve
 nagsha-share
 nagso-scroll
-nagte-trending
+nagte-trend
 nagva-Valorant
 nagwa-watch
 nagwo-work
@@ -1296,25 +1299,25 @@ naka-connect
 naka-data
 naka-deafen
 naka-easy
-naka-flat uno
-naka-focus
+naka-flat
+naka-focused
 naka-generator
 naka-goggles
 naka-graduate
 naka-graveyard
-naka-green dot
-naka-hacker vibes
+naka-green
+naka-hacker
 naka-join
 naka-leave
 naka-localhost
 naka-Mac
-naka-move on
+naka-move
 naka-mute
 naka-off
 naka-outlet
 naka-PC
 naka-perfect
-naka-plain text
+naka-plain
 naka-ready
 naka-red
 naka-relax
@@ -1327,7 +1330,7 @@ naka-situationship
 naka-slot
 naka-steps
 naka-survive
-naka-tutorial hell
+naka-tutorial
 naka-uniform
 naka-upload
 naka-vacant
@@ -1338,7 +1341,7 @@ nakaka-stress
 nakapag-print
 nalo-look
 napa-close
-napa-reverse walk
+napa-reverse
 napag-meeting-an
 napaka-cool
 napaka-cute
@@ -1348,10 +1351,9 @@ nare-receive
 navi-visualize
 ni-accept
 ni-autocomplete
-ni-back up
+ni-back
 ni-backstab
 ni-bell
-ni-block
 ni-boost
 ni-brag
 ni-browse
@@ -1380,7 +1382,7 @@ ni-encode
 ni-encrypt
 ni-flash
 ni-format
-ni-giveaway
+ni-give away
 ni-grief
 ni-hardcode
 ni-launch
@@ -1395,10 +1397,10 @@ ni-normalize
 ni-picture-an
 ni-PM
 ni-post
-ni-potty train
+ni-potty
 ni-present
 ni-push
-ni-quote tweet
+ni-quote
 ni-react-an
 ni-rebuild
 ni-refactor
@@ -1422,7 +1424,7 @@ ni-save
 ni-screenshot
 ni-season
 ni-send
-ni-setup
+ni-set up
 ni-sideload
 ni-simplify
 ni-simulate
@@ -1459,7 +1461,7 @@ pa-compile
 pa-confirm
 pa-connect
 pa-copy
-pa-follow up
+pa-follow
 pa-help
 pa-keep
 pa-Marilaque
@@ -1479,8 +1481,8 @@ pa-send
 pa-share
 pa-sight
 pa-sign
-pa-Sta. Mesa
-pa-take
+pa-Sta.
+pa-take out
 pa-update
 pa-Valorant
 pa-verify
@@ -1501,7 +1503,7 @@ paki-attach
 paki-check
 paki-close
 paki-debug
-paki-fill up
+paki-fill
 paki-finalize
 paki-integrate
 paki-label
